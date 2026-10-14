@@ -1,0 +1,127 @@
+[
+  {
+    "case": "never_armed",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "healthy",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "stopped",
+    "start_requests": 1,
+    "passed": true
+  },
+  {
+    "case": "recovered",
+    "start_requests": 1,
+    "passed": true
+  },
+  {
+    "case": "transient",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "unknown",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "absent_reconnect",
+    "start_requests": 1,
+    "passed": true
+  },
+  {
+    "case": "long_absence",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "different_adapter",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "carrier_down",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "multiple",
+    "start_requests": 2,
+    "passed": true
+  },
+  {
+    "case": "paused",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "retry_limit",
+    "start_requests": 6,
+    "passed": true
+  },
+  {
+    "case": "history_not_state",
+    "start_requests": 2,
+    "passed": true
+  },
+  {
+    "case": "error_state",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "preflight_recovers",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "pause_at_preflight",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "module_removed",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "auto_boot",
+    "start_requests": 1,
+    "passed": true
+  },
+  {
+    "case": "auto_any_adapter",
+    "start_requests": 3,
+    "passed": true
+  },
+  {
+    "case": "auto_reconnect_late",
+    "start_requests": 1,
+    "passed": true
+  },
+  {
+    "case": "auto_no_carrier",
+    "start_requests": 3,
+    "passed": true
+  },
+  {
+    "case": "auto_paused",
+    "start_requests": 0,
+    "passed": true
+  },
+  {
+    "case": "auto_retry_limit",
+    "start_requests": 6,
+    "passed": true
+  },
+  {
+    "case": "auto_linkup_reset",
+    "start_requests": 7,
+    "passed": true
+  }
+]
